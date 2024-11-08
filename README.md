@@ -12,3 +12,5 @@
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=co2f2e&show_icons=true&theme=default)
+

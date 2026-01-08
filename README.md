@@ -4,6 +4,6 @@
 🌱 Currently focusing on **Python**.  
 🚀 Keep learning, keep building.
 
-## 💻 Tech Stack
+## 💻 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=co2f2e&layout=compact&theme=tokyonight&hide_border=true)

@@ -6,5 +6,6 @@
 
 ## 💻 Languages
 
-![Profile Summary](https://github.com/DenverCoder1/github-profile-summary-cards/raw/master/generated/co2f2e/medium/0-almost-dark.png)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=co2f2e&layout=compact)
+
 

@@ -4,6 +4,7 @@
 🌱 Currently focusing on **Python**.  
 🚀 Keep learning, keep building.
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=co2f2e&layout=compact)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=co2f2e&layout=compact)](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=co2f2e&layout=compact&branch=main
+)
 
 

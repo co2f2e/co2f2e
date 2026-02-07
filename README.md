@@ -6,4 +6,6 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Meokj&layout=compact&branch=main)
 
+![Visitor Count](https://profile-counter.glitch.me/Meokj/count.svg)
+
 
